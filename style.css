@@ -1,0 +1,14 @@
+#slide{
+    display: block;
+    max-width: 400px;
+    margin: 10px auto;
+    height: auto;
+    cursor: pointer;
+}
+#slides{
+    display:none;
+    text-align: center;
+}
+
+h4{text-align:center;}
+h1{text-align:center;}
